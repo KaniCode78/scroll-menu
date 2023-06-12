@@ -1,14 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Wix+Madefor+Display&display=swap');
+
 *,
 :before,
 :after {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background: #048C8C;
 }
 
 html {
     scroll-behavior: smooth;
 }
+
+/* Header */
+
+
+
+
+/* Barra */
 
 section {
     font-family: sans-serif;
@@ -69,7 +79,7 @@ aside {
 }
 
 .menu li a.active {
-    color: red;
+    color: #01283F;
     margin-left: 5px;
 }
 
